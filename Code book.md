@@ -2,7 +2,7 @@
 
 ## 1. Information about dataset
 
-Dataset was retrieved on 28/04/2014 from 
+Dataset was retrieved on 23/05/2014 from 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Following information are copied from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
